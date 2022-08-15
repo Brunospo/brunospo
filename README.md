@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunospo&color=009000" alt="Profile views" /> </p>
 
-- 🌱 I’m currently studying Back-End Development at Cubos Academy
+- 🌱 I’m currently studying TypesCript
 - 🎓 99% graduated in Computer Science at Unifacs
-- 🤔 Curiosity: I was studying React JS on my own, but I won a Back-End development grant and I'm focusing on it now. In the future I will resume studying React to become a Full Stack developer
+- 🎯 Focus: Backend development. In the future I will studying React to become a Full Stack developer
 
 ## ⚙️ &nbsp;GitHub Analytics
 
