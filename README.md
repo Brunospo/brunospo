@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunospo&color=009000" alt="Profile views" /> </p>
 
-- 🌱 I’m currently studying TypesCript
+- 🌱 I’m currently studying TypeScript
 - 🎓 99% graduated in Computer Science at Unifacs
 - 🎯 Focus: Backend development. In the future I will studying React to become a Full Stack developer
 
